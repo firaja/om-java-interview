@@ -1,11 +1,12 @@
 # :coffee: Java code interview
+Each class/interface contains a sub-class with the solution(s).
 
 ## :boy: :girl: Juniors
  * [Fix bad code](https://github.com/firaja/om-java-interview/blob/master/src/main/java/com/openmind/interviews/BadCode.java)
  * [Find the closest pair of numbers](https://github.com/firaja/om-java-interview/blob/master/src/main/java/com/openmind/interviews/FindClosest.java): you can suggest to sort the array.
  * [Find the position](https://github.com/firaja/om-java-interview/blob/master/src/main/java/com/openmind/interviews/FindElement.java): it is expected a solution in O(n)
- * [Build a queue using stacks](https://github.com/firaja/om-java-interview/blob/master/src/main/java/com/openmind/interviews/QueueWithStacks.java): test the reasoning than the code
- * [Build a stack using queues](https://github.com/firaja/om-java-interview/blob/master/src/main/java/com/openmind/interviews/StackWithQueues.java): test the reasoning than the code
+ * [Build a queue using stacks](https://github.com/firaja/om-java-interview/blob/master/src/main/java/com/openmind/interviews/QueueWithStacks.java): test the reasoning rather than the code
+ * [Build a stack using queues](https://github.com/firaja/om-java-interview/blob/master/src/main/java/com/openmind/interviews/StackWithQueues.java): test the reasoning rather than the code
  * [Second max element](https://github.com/firaja/om-java-interview/blob/master/src/main/java/com/openmind/interviews/SecondMax.java)
 
 ## :man: :woman: Middle

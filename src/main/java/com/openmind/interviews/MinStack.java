@@ -71,7 +71,7 @@ public class MinStack<T extends Comparable<?>>
     }
 
 
-    // =======================================================================================================
+
     /**
      * Solution implementing {@link #minimum()} in O(1).
      */

@@ -8,7 +8,7 @@ import java.util.Map;
 
 
 /**
- * Given a collection of integers, every element appears twice except for one.
+ * Given a collection of positive integers, every element appears twice except for one.
  * Write a function that returns the single not paired element.
  *
  * @author David Bertoldi

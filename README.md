@@ -1,7 +1,7 @@
 # :coffee: Java code interview
 
 ## :boy: :girl: Juniors
- * [Fix bad designed code](https://github.com/firaja/om-java-interview/blob/master/src/main/java/com/openmind/interviews/BadCode.java)
+ * [Fix bad code](https://github.com/firaja/om-java-interview/blob/master/src/main/java/com/openmind/interviews/BadCode.java)
  * [Find the closest pair of numbers](https://github.com/firaja/om-java-interview/blob/master/src/main/java/com/openmind/interviews/FindClosest.java): you can suggest to sort the array.
  * [Find the position](https://github.com/firaja/om-java-interview/blob/master/src/main/java/com/openmind/interviews/FindElement.java): it is expected a solution in O(n)
  * [Build a queue using stacks](https://github.com/firaja/om-java-interview/blob/master/src/main/java/com/openmind/interviews/QueueWithStacks.java): test the reasoning than the code
